@@ -1,0 +1,38 @@
+html{
+    scroll-behavior: smooth;
+}
+.form{
+   
+    position: fixed;
+    left: 350px;
+    right: 300px;
+    height: 950px;
+    width: 800px;
+    top: 20px;
+    border-style: groove;
+}
+.fa{
+    color: rgb(174, 128, 50);
+ font-size: 20px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+td, th {
+    
+    border-radius: 0px;
+    padding: 8px;
+  }
+  tr:nth-child(even) {
+    background-color: #f8f5f5;
+  }
+  .container{
+    border: groove;
+    position: fixed;
+    height:200px;
+    width: 780px;
+    border-radius: 15px;
+  }
+ 
